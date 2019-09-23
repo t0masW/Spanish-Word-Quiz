@@ -1,0 +1,24 @@
+Proud,Orgulloso
+Managers,Los gerentes
+Diarrhoea,La diarrea
+Cholera,El colera
+To ruin,Arruinar
+Death,La muerte
+Bricks,los ladrillos
+NGOs,ONGs
+Cardboard,El carton
+Sanitary,Sanitario
+Development,El desarrollo
+Outskirts,Las afueras
+Poverty,La pobreza
+Charity works,Las obras benéficas
+Wealth,La riqueza
+Treatment,El tratamiento
+Roof,Un techo
+Sewer,La alcantarilla
+Glass,El cristal
+Prejudices,Los Prejuicios
+Running water,El agua corriente
+Illnesses,Las enfermedades
+Stones,Las Piedras
+A shanty town,Un barrio de chabolas
